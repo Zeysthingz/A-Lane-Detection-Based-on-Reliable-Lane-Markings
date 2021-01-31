@@ -5,5 +5,6 @@ transformed to bird's eye viev via inverse perspective mapping. Then gaussian pr
 acuired from bird's eye view. Then a polynomal lane model is estimated from the identified regions
 You can see the article using for this project.
 
-#RESULTS 
+# Results   
+
 
