@@ -11,5 +11,7 @@ You can see the article using for this project.
                               Original Image 
 
 ![image](https://user-images.githubusercontent.com/55089534/106599462-2664a180-656a-11eb-80f0-b47ee96e982d.png)
-                        Grayscale and ROI Selected Image
+                        Grayscale ROI Selected Image
+ ![image](https://user-images.githubusercontent.com/55089534/106599812-a5f27080-656a-11eb-91cd-58d617e3b883.png)
+### Binary Image
 
