@@ -11,4 +11,6 @@ You can see the article using for this project.
 
 ### Histogram of Lane Piksel Density for First Image 
 
+![image](https://user-images.githubusercontent.com/55089534/106602125-9f192d00-656d-11eb-887b-354654bef052.png)
 
+### Input of First Image / Output of First Image 
