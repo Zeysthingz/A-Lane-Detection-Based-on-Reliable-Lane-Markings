@@ -8,11 +8,16 @@ You can see the article using for this project.
 # Results   
 
 ![image](https://user-images.githubusercontent.com/55089534/106598947-7abb5180-6569-11eb-8d6c-41a168d2f2fa.png)   
-                              ### Original Image 
+ ### Original Image 
 
 ![image](https://user-images.githubusercontent.com/55089534/106599462-2664a180-656a-11eb-80f0-b47ee96e982d.png)
-                             ### Grayscale ROI Selected Image
+ ### Grayscale ROI Selected Image
                         
  ![image](https://user-images.githubusercontent.com/55089534/106599812-a5f27080-656a-11eb-91cd-58d617e3b883.png)
-                            ### Binary Image
+ ### Binary Image
 
+![image](https://user-images.githubusercontent.com/55089534/106600363-5ceeec00-656b-11eb-8d74-fabf4ad7150f.png)
+### Sobel Filter Applied Image 
+
+![image](https://user-images.githubusercontent.com/55089534/106600605-b35c2a80-656b-11eb-9187-20c55c7dd7a2.png)
+### Converting to Binary Image 
